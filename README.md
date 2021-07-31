@@ -56,3 +56,5 @@ new Vue({
 ```
 
 ## [Theme Configuration](https://vuetifyjs.com/en/features/theme/)
+
+## [publicPath](https://cli.vuejs.org/config/#publicpath)
